@@ -4,7 +4,7 @@
 **Role Simulated:** GRC Analyst / IT Auditor  
 **Framework:** NIST Cybersecurity Framework (CSF) v1.1  
 **Organization:** Northview Regional Medical Center (Fictional Scenario)  
-**Assessment Period:** Q1 2025  
+**Assessment Period:** Q1 2026  
 
 ---
 
@@ -61,7 +61,7 @@ GRC engagement, mapped to the NIST CSF v1.1 framework.
 
 This assessment was completed as part of my GRC certification preparation 
 and portfolio building. Background: 10+ years in marketing and growth 
-strategy, currently transitioning into cybersecurity GRC with focus on 
+strategy, currently transitioning into cybersecurity GRC with a focus on 
 compliance, risk management, and audit.
 
 Connect with me on [LinkedIn](https://linkedin.com/in/iambimbs)
