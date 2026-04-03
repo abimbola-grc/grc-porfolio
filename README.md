@@ -53,7 +53,7 @@ GRC engagement, mapped to the NIST CSF v1.1 framework.
 ## Documents
 
 - [Full GRC Assessment Report (PDF)](./reports/GRC_FullReport_Northview.pdf)
-- [Executive Presentation (PDF)](./presentation/GRC_Executive_Presentation.pdf)
+- [Executive Presentation (PDF)](./reports/GRC_Executive_Presentation.pdf)
 
 ---
 
